@@ -1,26 +1,30 @@
 {
   "name": "MIMI",
-  "symbol": "MIMI",
-  "description": "THIS IS A TEST",
-  "image": "https://raw.githubusercontent.com/miaodotarmy/mimi-finaltest2-13/gh-pages/public/token-image.jpg",
+  "symbol": "MII",
+  "description": "SADA ASDAS ",
+  "image": "https://img-v1.raydium.io/share/launch_icon.png",
   "properties": {
-    "twitter": "https:/x.com/asdasd",
-    "telegram": "https:/t.me/asdasd",
-    "discord": "https:/discord.gg/asdasd",
-    "website": "https://fullmoon.pt/"
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://img-v1.raydium.io/share/launch_icon.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "extensions": {
+    "website": "https://fullmoon.pt/",
+    "twitter": "https://x.com/asdasdasd",
+    "telegram": "https://https;/t.me/asdadsasd"
   },
   "attributes": [
     {
       "trait_type": "Twitter",
-      "value": "https:/x.com/asdasd"
+      "value": "https://x.com/asdasdasd"
     },
     {
       "trait_type": "Telegram",
-      "value": "https:/t.me/asdasd"
-    },
-    {
-      "trait_type": "Discord",
-      "value": "https:/discord.gg/asdasd"
+      "value": "https://https;/t.me/asdadsasd"
     },
     {
       "trait_type": "Website",
